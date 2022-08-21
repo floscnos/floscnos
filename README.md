@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @floscnos
+- 👀 I’m interested in webdevelopment, fullstack, preferably something with Python (Django) and React.
+- 🌱 I’m currently learning Java, React
+- 📫 You can reach me via: floris@floriscnossen.nl
