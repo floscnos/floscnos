@@ -2,4 +2,4 @@
 - 👀 I’m interested in fullstack webdevelopment, preferably something with Laravel and Vue.js.
 - 📫 You can reach me via: floris@floriscnossen.nl
 
-Currently (2024), I am studying Software Engineering. A few of my school projects and other personal projects are published on my github page. Please, take a look!
+Currently (2025), I am studying Software Engineering. A few of my school projects and other personal projects are published on my github page. Please, take a look!
