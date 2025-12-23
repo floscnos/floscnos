@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @floscnos
-- 👀 I’m interested in fullstack webdevelopment, preferably something with Laravel and Vue.js.
-- I am learning SwiftUI on the side. I also have experience with Python, C# and C++.
+- 👀 I’m here doing some webdevelopment, preferably something with Laravel and Vue.js.
 - 📫 You can reach me via: floris@floriscnossen.nl
